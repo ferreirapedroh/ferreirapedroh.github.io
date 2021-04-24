@@ -2,7 +2,7 @@
 title:               Biased
 tagline:             'Um Blog Sem Tema Unificador'
 description:         'Um blog opinativo completamente enviesado'
-url:                 https://ferreirapedroh.github.io
+url:                 https://biased.com.br
 baseurl:             '/'
 paginate:            5
 permalink:           pretty
