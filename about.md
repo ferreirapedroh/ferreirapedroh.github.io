@@ -3,27 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This is a free blog with no unifying theme. All the posts are intended to reflect only the opinion of its author, blog creator [Pedro Ferreira](https://twitter.com/phgferreira), over a variety of themes, in most of which the author is a layman, and, therefore any of its posts are intended to be depicting an authoritative or expert's opinion.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+For full disclosure, currently, I am the Head of Artificial Intelligence and Operations at [Snow Fox AI] (http://snowfox-ai.com/), assuming both research and managerial functions. In educational terms, I am proudly an alumnus of [Universidade de Brasília, Brazil](https://www.unb.br/)'s [Electrical Engineering Department] (http://www.ene.unb.br/) and [Dalhousie University, Canada](https://www.dal.ca/)'s [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html).I am equally proud to have been supervised by [Dr. Peixoto](http://www2.ene.unb.br/eduardop/) at _Universidade de Brasília_ and [Dr. Zincir-Heywood](https://web.cs.dal.ca/~zincir/) at Dalhousie University. As an undergraduate student, I was a founding member of its IEEE Computational Intelligence Society Chapter at _Universidade de Brasília_, serving as the first Chairperson from 2018 to 2020. During my term, our efforts were recognized as we were awarded the [IEEE CIS Outstanding Chapter of the Year](/files/Outstanding_Chapter.pdf) for promoting computational intelligence among students, industry, and academia, being the first initiative in Latin America to be awarded with such honor, the greatest in IEEE for Artificial Intelligence groups. As expected from an Electrical Engineer, my area of expertise is limited to Artificial Intelligence, Numerical Optimization, Communication Networks, Signal Processing and Economics, in that order
 
-There are currently two themes built on Poole:
+Personally, my interests are much broader and include sports, mainly football, cinema, music, politics, economics and religion, so one can expect all these topics to be recurring here.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+If, for some reason, you need to reach to me or just want to chat, I am on Twitter at [@phgferreira](https://twitter.com/phgferreira) and I can also be contacted [by email](mailto:pedroferreira@ieee.org). For professional contacts, I can be found on [LinkedIn](https://www.linkedin.com/in/pedro-ferreira-740144115/) or check my [CV](/files/Resume_Pedro.pdf). If you are interested in my research, you can check out over a dozen of my papers in the [publications](/publications) section [in construction].
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I know it can be confusing, but I may write both in English and in Portuguese here according to my intention. Google Translate is not perfect yet, but it is getting closer due to the power of the Deep Learning based Transformers and Attention models, so, if you do not speak one of the languages but still wants to read a given post, it hopefully will be enough. 
