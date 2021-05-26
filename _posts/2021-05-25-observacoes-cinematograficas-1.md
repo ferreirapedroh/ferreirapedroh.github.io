@@ -13,8 +13,8 @@ tags:
 </div>
 
 
-**Filmes**:
-    **Recentes**:
+- **Filmes**:
+    - **Recentes**:
         -**Shiva Baby**: Um dos filmes mais interessantes do ano, esse terror psicológico disfarçado de drama emprega uma caracterização inteligente e boas atuações para potencializar ao máximo sua premissa muito simples: Manter as aparências, sobretudo em uma comunidade fechada, pode ser muito estressante. Ao longo de suas apenas 1h20 de duração, _Shiva Baby_ consegue sustentar no expectador a sensação de _stress_ de sua protagonista e conduzí-lo até um ponto próximo do terror. Trata-se de uma obra-prima do _stress_ à lá _Uncut Gems_, que curiosamente também compartilha de certa forma a temática judaíca. **Nota: 4,5/5**.  
 
         -**Love & Debt**: Divertido, charmoso, completamente humano e nenhum pouco audacioso, _Love & Debt_ é completamente passageiro, mas se mantém prazeroso por toda sua duração graças às boas atuações - principalmente de Bailee Madison, que, filme após filme, prova estar preparada para ser escalada papéis adultos - e às boas escolhas de direção de Valerie Landsburg, que preservam o filme leve e bem-humorado. **Nota: 3,5/5**.
@@ -31,12 +31,12 @@ tags:
 
         -**Chaos Walking**: Doug Liman é indubitavelmente um dos diretores mais irregulares de Hollywood. Embora não seja possível questionar o talento da mente por trás de _Go!_, _Edge of Tomorrow_, _American Made_  até mesmo da influente série _The O.C._, todos dignos de diretores do primeiro escalão da indústria, Liman também se acostumou a acumular fracassos colassais, muitos deles em filmes de centenas de milhões de dólares, como o fraco, embora icônico, _Jumper_ e o péssimo _Mr. & Mrs. Smith_. Infelizmente, _Chaos Walking_ se aproxima muito mais do padrão _big bucks bomb_ de Liman, desperdiçando 140 milhões de dólares, um talentosíssimo elenco e uma premissa interessante em um filme cujo único ponto positivo é não parecer barato, entregando não mais do que uma história desinteressante, confusa e pouco ambiciosa que não agrega absolutamente nada de novo ao gênero. **Nota: 1,5/5**
 
-    **Assíncronos**:
+    -**Assíncronos**:
       -**Hunter Prey (2009)**: Municiado por um _design_ de produção incrível, um roteiro sólido e muita, muita coragem, esse clone de _Star Wars_, produzido mais 10 anos antes de _The Mandalorian_, consegue mostrar que o potencial do universo de _Star Wars_ transcende por muito a existência da _força_. De forma surpreendente, a audácia (e o talento) do Diretor Sandy Collora são recompensados transformando _Hunter Prey_ em um inesperado e surpreendente _must see_. **Nota: 4,0/5**
 
-**Séries**:
-    **Recentes**:
-    
+-**Séries**:
+    -**Recentes**:
+
         -**Master of None (Season 3)**: Por anos, _Master of None_ foi minha série favorita graças à sua sensibilidade para abordar temas modernos, facilitada pela intimidade dos personagens. Em sua terceira temporada, no entanto, com a trilha de história de Dev bloqueada, Aziz Ansari erra ao creditar à intimidade, e não à abordagem sensível de temáticas moderna, o de sucesso da série. É inegável que a temporada, efetivamente um _spin-off_ focado em Denise e seu novo relacionamento, é interessante - até mesmo porque Denise é o personagem mais interessante e complexo entre os amigos de Dev -, intimista e até mesmo artística em um certo nível. No entanto, por mais que a terceira temporada seja bem executada, pelo conceito da série, _Master of None_ não consegue superar em um retrato de intimidade séries focadas primariamente em serem intimistas, como a ótima _Normal People_ e até mesmo a já concluída comédia romântica de Judd Appatow _Love_, sendo impossível não imaginar que um _spin-off_ focado em Brian ou em Arnold conservando a sensibilidade e a temática - como o próprio Alan Yang, co-criador e produtor de _Master of None_, fizera em sua série sobre imigração, a fantástica _Little America_, da AppleTV+ - teria sido muito mais interessante e fiel à premissa que fez da série tão cativante. **Nota: 2,5/5**
 
         -**Good Girls (Season 4)**: Uma vez que nos acostumamos com a premissa de Donas-de-Casa-envolvidas-com-Crime-Organizado, _Good Girls_ se torna, acima de tudo, uma série tensa, interessante, divertida e, acima de tudo, consistente se mantendo praticamente indiferente ao avanço das temporadas, contrastando com a esperada queda de qualidade com o passar do tempo. Tudo isso graças à química incrível das três protagonistas, Christina Hendricks, a eterna Joan de _Mad Men_, Mae Whitman, a Ann de _Arrested Development_, completamente fora da zona de conforto, e a hilária Retta, que combinadas formam um dos melhores e mais naturais trios de comédia da televisão. **Nota: 3,0/5**
@@ -45,5 +45,5 @@ tags:
 
         -**Mare of Easttown (Limitada)**: Combinando uma história bem-trabalhada, que funciona tanto como suspense quanto como drama, uma ambientação brilhante e um nível de talento que só a HBO consegue trazer para a televisão, _Mare of Easttown_ se aproveita do talento do diretor Craig Zobel, mais uma vez muito sólido, e das atuações estelares da ganhadora do Oscar Kate Winslet - que, após uma década desperdiçada com performances em filmes fracos, parece ter começado a dar volta por cima, entregando, em _Mare_, uma das melhores atuações de sua carreira - e da sempre subestimada Angourie Rice - que segue caminhando à passos largos para se firmar como a melhor atriz de sua geração, embora inexplicavelmente ainda não tenha recebido oportunidades de grandes papeis em ótimos filmes -, para entregar um trama tensa, intrigante, inteligente e, no final das contas, imperdível. **Nota: 5/5**
 
-    **Assíncronos**:
+    -**Assíncronos**:
       -**Wayne (2019)**: Embora essa pouco conhecida e ambiciosa série do _YouTube Premium_ talvez se pareça excessivamente com uma versão americanizada de _The End of the F***ing World_ com algumas pitadas _gore_ de _Kill Bill_, mas por ao conciliar uma ótima edição com um roteiro bem-trabalhado e cativante, capaz de imprimir profundidade na medida certa sem comprometer a velocidade da série, uma química incontestável entre os protagonistas e uma capacidade única de ir de ação-frenética-ultra-acelerada à lá _John Wick_ para drama-adolescente-com-personagens-inseguros-ou-desajustados como _The Way, Way Back_, _Wayne_ é uma das melhores séries de que você nunca ouviu falar, reafirmando o talento de conciliar ação e comédia já demonstrado por sua dupla de produtores Paul Wernick e Rhett Reese em suas obras de maior sucesso, como _Zombieland_ e _Deadpool_.**Nota: 5/5**
