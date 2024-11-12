@@ -1,0 +1,48 @@
+
+
+---
+layout: post
+
+title: Choices
+
+tags:
+
+ - crônicas
+
+ - reflexões
+
+
+
+---
+
+<div align="center"> <h1>CHOICES</h1>
+
+<img title="" src="images/posts/Choices.webp" alt="Escolhas" align="center">
+
+</div>
+
+
+
+I've always seen myself as a liberal. The influence of liberal ideas on my thought and the way I see and frame the world is rooted so deeply that it wouldn't be absurd to call it a cornerstone to my identity, even though I may have swung more to the left or the right depending of my social context and moment of life.  But as an adult, no idea struck me as more relevant, humanistic, and dear to liberal thought than Isiah Berlin's concept of positive liberty, which states that one has positive liberty by having the resources and/or capacities to carry their will.  In other words, liberty is about enabling people to have real, tangible choices on how to live their lives.
+
+I've always treasured the privilege of having these real choices to make as one of the greatest gifts of a life that has been only kind to me thus far, and therefore it was only natural to me to wish that other people also had this opportunity and to think really hard about on how does the act of choosing impacts my life.  I haven't made up my mind about where I stand in the debate of the metaphysics of identity — I'm unsure if our notion of self is more similar to Descartes's simple *res cogitans*, the thinking-thing, to Locke's memory-based continuity of consciousness, or more a bundle of perceptions tied together, being only loosely coherent, as postulated by Hume's bundle theory —, but I know for a fact that our choices are what lead us to become our actual selves rather than any other hypothetical self we could have been. 
+
+This week, I made one of the hardest and most important choices of my life by choosing to end a tremendously fulfilling 5-years cycle working at Snow Fox to start a chapter of my professional career at Gain Life. I loved every single day I've had at Snow Fox and I'm so very proud of having helped to build the company from scratch, assembling not only the most talented team of Engineer I've ever seen but also a very human team, made of some of the most accountable, enthusiastic, cooperative people I've had the pleasure of meeting. These were the best 5 years of my life.
+
+And yet, I decided to leave my Garden of Eden into a far less certain challenge, reorienting my life once again towards North America, because Gain Life's proposal spoke to me. Working for social good is a calling that I've always felt, but that has been asleep for quite a while. Doing social good in fast-paced, innovation-friendly workplaces that try to be as free of politics as possible, precisely the kind of work environment where I always thrived, was a long-term goal that materialized to me much sooner than I expected. It was too good to pass, too good to not take my chances on. I don't know how things will play out, but I feel incredibly grateful and privileged to only have very good choices among my *real* choices. 
+
+In the midsty of the optimistic anxiety amongst this ocean of the new and uncertaint, I've took a moment to look in the rearview mirror and scrutinize every major past decisions of my adult life and how, in retrospect, they've played out and influenced my life, and I admit that I feel pretty good about it. 
+
+Over a decade ago, I decided to put skill over passion and pursue a degree in STEM rather than in humanities mostly because there were much less people who were as good as me in STEM than people who loved humanities as much as me. This decision gave me discipline, self-reliance, and a strong background that conducted me to an excellent career, where I have an intellectually challenging and stimulating job and that allowed me to achieve financial independence much earlier than I expected. It also gave me the right tools to help my keen investigative mind to come up with conclusions about reality. But it maybe (and only maybe, I can't prove it) also created in me the very calling of working oriented towards social good I've just answered. Would this be a coping mechanism, a consolation prize for someone who was passionate about the humanities, but ultimately didn't end up working at them? I don't know
+
+My choice of studying Engineering gave me an excellent theoretical background in a vast number of subjects, which later would allow me to find in Artificial Intelligence an answer to my quintessential intellectual angst, the question of _with the information we have until now, how can we best interpret reallity_. My choice of studying Engineering _In Brazil_ allowed me to have an excellent education and graduate without any student debt. Furthermore, in college, I met a handful of people who would grow into close personal friends, a dozen more regular friends, hundreds of acquaintances, and even a handful of enemies. I've met brilliant people and also people who would have a very deep impact on my career as well. Some of my closest friends from college only took a couple of classes with me, while some of my former best friends currently see me as an enemy or are at least stranged with me — it may be an evidence that Hume was right and their past version and my past self were indeed friends, but our current versions have nothing to do with those previous ones, but I prefer to think that maybe one day our futures will cross again and maybe we're going back to being friends, or maybe we'll develop into full-blown enemies. 
+
+From my choice of moving to Canada, I've only got benefits. I got knowledge, a job, a mentor, and a chosen family. I've learned from the very best in the world how to do my job well, I came back with an extraordinary job offer that would allow me to build Snow Fox and finally I've met my some of the people I admire the most in the world. I had the luck to find a family that I loved more (and I'm pretty sure that they also loved me back) than anyone else in the world but my parents and brother 4 275 miles away from home.  I'm forever grateful for choosing them.
+
+My choice of returning to Brazil gave me invaluable time together with my parents and brother and five great years close to my friends and the people who metter the most to me. My choice of entrepreneurship instead of a corporate job accelerated my professional development, financial gains, and gave me business accument, independece, a holistic view and a long term collaboration with some of the very best people in my life.  
+
+It's blatantly clear to me that I cannot foresee the ups and downsides of the choices I make, but it also seems neat that no matter how things play out, the angst of future downsides will never be apparent in the present. After a decade, I have only reasons to be grateful and thankful. Maybe I feel like that because my STEM background indoctrinated me with Leibniz's optimism instead of Voltaire's agency-based skepticism, maybe it's the right side of the brain talking, but, to me, the real question here is whether I have any *real *choices other than being very optimistic about my next step.
+
+
+
+
