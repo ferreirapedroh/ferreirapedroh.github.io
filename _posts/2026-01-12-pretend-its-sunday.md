@@ -58,14 +58,14 @@ Time flies
 While reality doesn’t lie  
 Suddenly, it's time to say goodbye  
 
-We say to ourselves that's not enough, let’s do it more  
+We say to ourselves that's not enough, let’s do more  
 ‘Cause the heart can only be so sure    
 But between two Sundays  
 There are always six days  
 When life can force us to go different ways  
 
 Sometimes through flesh and blood  
-Others through spirit  
+Other times through spirit  
 I can’t understand  
 Why it is like that  
 
